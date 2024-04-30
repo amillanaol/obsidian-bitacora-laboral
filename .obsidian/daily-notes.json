@@ -1,0 +1,6 @@
+{
+  "format": "YYYY-MM-DD/YYYY-MM-DD_HHmms",
+  "folder": "Journal/Daily/",
+  "template": "config/templates/template-quick_note",
+  "autorun": true
+}

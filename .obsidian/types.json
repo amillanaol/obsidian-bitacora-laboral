@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "almuerzo": "text",
+    "yoga": "text",
+    "break_minutos": "text",
+    "horas_estudio": "text",
+    "horas_dormidas": "text",
+    "creation_date": "text",
+    "modification-date": "text",
+    "lavado_dientes": "text",
+    "fileClass": "text",
+    "completado": "checkbox"
+  }
+}

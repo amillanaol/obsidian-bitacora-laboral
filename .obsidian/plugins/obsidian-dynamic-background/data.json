@@ -1,0 +1,7 @@
+{
+  "dynamicEffect": 1,
+  "digitalRainBrightness": 0.7,
+  "enableDynamicEffect": false,
+  "backgroundImageFile": "config/other/fondo-sala.png",
+  "blur": 0
+}

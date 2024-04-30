@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Inter",
+  "baseFontSize": 11,
+  "enabledCssSnippets": [
+    "task"
+  ],
+  "theme": "moonstone"
+}
